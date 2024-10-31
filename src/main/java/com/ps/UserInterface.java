@@ -229,10 +229,5 @@ public class UserInterface {
         }
     }
 
-//    public static void displayVehicleType(List<Vehicle> vehicles){
-//        for(Vehicle vehicle: vehicles){
-//            System.out.println(vehicle + vehicle.getVehicleType().getDescription());
-//        }
-//
-//    }
+
 }

@@ -86,6 +86,7 @@ public class Vehicle {
     }
 
     public enum VehicleType{
+        //Figur
         car{
                 @Override
             public String getAddDescription (){
